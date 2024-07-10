@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 07 14:19:00 PKT 2023
+javax.xml.soap-api-1.4.0-javadoc.jar>central=
+javax.xml.soap-api-1.4.0-sources.jar>central=
+javax.xml.soap-api-1.4.0.jar>central=
+javax.xml.soap-api-1.4.0.pom>central=

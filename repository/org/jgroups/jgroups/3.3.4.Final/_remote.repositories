@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 07 14:19:50 PKT 2023
+jgroups-3.3.4.Final-sources.jar>central=
+jgroups-3.3.4.Final.jar>central=
+jgroups-3.3.4.Final.pom>central=

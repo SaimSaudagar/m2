@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 07 14:18:13 PKT 2023
+neo4j-cypher-compiler-2.1-2.1.5-javadoc.jar>central=
+neo4j-cypher-compiler-2.1-2.1.5-sources.jar>central=
+neo4j-cypher-compiler-2.1-2.1.5.jar>central=
+neo4j-cypher-compiler-2.1-2.1.5.pom>central=

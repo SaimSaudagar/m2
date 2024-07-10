@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 07 14:17:51 PKT 2023
+aspectjweaver-1.8.6-javadoc.jar>central=
+aspectjweaver-1.8.6-sources.jar>central=
+aspectjweaver-1.8.6.jar>central=
+aspectjweaver-1.8.6.pom>central=

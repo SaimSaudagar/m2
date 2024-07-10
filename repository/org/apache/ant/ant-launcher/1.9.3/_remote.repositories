@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 06 18:19:24 PKT 2023
+ant-launcher-1.9.3-sources.jar>central=
+ant-launcher-1.9.3.jar>central=
+ant-launcher-1.9.3.pom>central=

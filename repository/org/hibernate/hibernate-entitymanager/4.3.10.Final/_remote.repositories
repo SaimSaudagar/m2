@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 07 14:17:33 PKT 2023
+hibernate-entitymanager-4.3.10.Final-sources.jar>central=
+hibernate-entitymanager-4.3.10.Final.jar>central=
+hibernate-entitymanager-4.3.10.Final.pom>central=

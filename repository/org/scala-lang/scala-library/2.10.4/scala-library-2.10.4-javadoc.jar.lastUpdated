@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 07 00:21:21 PKT 2023
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1699298481891
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.scala-lang\:scala-library\:jar\:javadoc\:2.10.4 from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: org/scala-lang/scala-library/2.10.4/scala-library-2.10.4-javadoc.jar from central failed

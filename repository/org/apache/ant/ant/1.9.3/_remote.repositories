@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 07 14:19:16 PKT 2023
+ant-1.9.3-javadoc.jar>central=
+ant-1.9.3-sources.jar>central=
+ant-1.9.3.jar>central=
+ant-1.9.3.pom>central=

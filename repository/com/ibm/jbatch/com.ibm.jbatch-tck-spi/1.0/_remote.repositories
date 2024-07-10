@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 07 14:17:10 PKT 2023
+com.ibm.jbatch-tck-spi-1.0-javadoc.jar>central=
+com.ibm.jbatch-tck-spi-1.0-sources.jar>central=
+com.ibm.jbatch-tck-spi-1.0.jar>central=
+com.ibm.jbatch-tck-spi-1.0.pom>central=
